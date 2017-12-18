@@ -17,7 +17,8 @@
 - Adapt the number of agents `Nb-peds` and click on `Setup`
 - `Move` to start the simulation
 
-You can change the parameters while the simulation is running. However, when the number of agents is changes, you need to `Setup` again.
+You can change the parameters while the simulation is running. However, when the number of agents is changed, you need to `Setup` again.
+
 
 ![Scenario](figs/nlogo.png)
 
