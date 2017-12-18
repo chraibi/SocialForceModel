@@ -19,6 +19,8 @@
 
 You can change the parameters while the simulation is running. However, when the number of agents is changes, you need to `Setup` again.
 
+![Scenario](figs/nlogo.png)
+
 ## Credits
 
 Antoine Tordeux (tordeux@uni-wuppertal.de)
